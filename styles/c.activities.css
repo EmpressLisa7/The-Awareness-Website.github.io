@@ -1,5 +1,5 @@
 header {
-    background-color: rgb(102, 27, 0);
+    background-color: rgb(3, 95, 0);
     color: white;
     padding: 10px 0;
 }
@@ -19,8 +19,8 @@ header nav ul li {
     display: inline;
 }
 header nav ul li a {
-    background-color: red;
-    color: rgb(0, 0, 0);
+    background-color: rgb(40, 184, 35);
+    color: white;
     text-decoration: solid black;
     font-size: 150%;
 }
@@ -28,10 +28,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: rgb(170, 41, 1);
+    background-color: rgb(0, 17, 255);
 }
 p {
-    color: rgb(255, 208, 0);
+    color: rgb(216, 216, 255);
     font-size: 20pt;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -39,17 +39,17 @@ h1 {
     font-size: 32;
     text-decoration:underline;
     justify-items: left;
-    color: black;
+    color: rgb(91, 91, 252);
     text-align: center;
 }
 h2 {
     font-size: 28;
     text-decoration: underline;
-    color: rgb(255, 208, 0);
+    color: rgb(216, 216, 255);
     text-align: center;
 }
 .p-1{
-    color: rgb(255, 208, 0);
+    color: rgb(216, 216, 255);
     font-size: 22pt;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: underline;
@@ -62,7 +62,7 @@ h2 {
     padding: 0;
 }
 .p-2 {
-    color: rgb(255, 208, 0);
+    color: rgb(216, 216, 255);
     font-size: 17pt;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -74,6 +74,12 @@ h1 {
     font-size: 32;
     text-decoration:underline;
     justify-items: left;
-    color: rgb(255, 208, 0);
+    color: rgb(91, 91, 252);
     text-align: center;
+}
+.cause {
+    font-size: 35px;
+    text-decoration: underline;
+    color: rgb(216, 216, 255);
+    text-align: center;   
 }
